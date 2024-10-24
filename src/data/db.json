@@ -231,10 +231,10 @@
       "id": 36
     },
     {
+      "id": 37,
       "name": "Sleek Concrete Gloves",
-      "price": 10,
-      "categoryId": 1,
-      "id": 37
+      "price": 13,
+      "categoryId": 1
     },
     {
       "name": "Ergonomic Bronze Car",
@@ -391,6 +391,12 @@
       "price": 10,
       "categoryId": 1,
       "id": 63
+    },
+    {
+      "name": "Winter Hoodie",
+      "price": 10,
+      "categoryId": 3,
+      "id": 64
     }
   ]
 }
